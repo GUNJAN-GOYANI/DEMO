@@ -1,3 +1,3 @@
 # DEMO
 This is my first Repository .
-Author - Gunjan Goyani
+Author - Gunjan Goyani Jayantibhai
